@@ -1,7 +1,7 @@
-# Big-ideas-final-project---[这里写你们的队名，比如：The Steel City Explorers]
+# Big-ideas-final-project---[队名]
 
 ## Project Overview
-This repository contains a data-driven analysis to determine the "best" neighborhood in Pittsburgh based on accessibility, green spaces, and safety metrics.
+This repository contains a data-driven analysis to determine the "best" neighborhood in Pittsburgh based on Habitability, which contains of three small parts, accessibility, green spaces, and safety metrics.
 
 ## Team Members
 **Canvas Group Number:** Final Project Group 7
