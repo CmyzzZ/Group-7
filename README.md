@@ -17,7 +17,7 @@ This repository contains a data-driven analysis to determine the "best" neighbor
 ## Datasets Used
 We used the following datasets from the Western Pennsylvania Regional Data Center (WPRDC) to evaluate our overarching metric of "bestness":
 
-1. **[Monthly Criminal Activity]**
+1. **Monthly Criminal Activity**
    * **Description:** This dataset includes Pittsburgh Bureau of Police crime incidents.
    * **link:** https://data.wprdc.org/zh_Hans_CN/dataset/monthly-criminal-activity-dashboard
 
