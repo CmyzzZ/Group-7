@@ -10,7 +10,7 @@ This repository contains a data-driven analysis to determine the "best" neighbor
 | :--- | :--- | :--- |
 | Mingyu Chen | mic413@pitt.edu | Analyzed safety. Notebook: `MingyuChen_safety.ipynb` |
 | Xiaoting Wang | [填入邮箱]@pitt.edu | Analyzed [指标名称, 比如: Green Spaces]. Notebook: `[填入文件名].ipynb` |
-| Yixuan Chen | [填入邮箱]@pitt.edu | Analyzed [指标名称, 比如: Accessibility]. Notebook: `[填入文件名].ipynb` |
+| Yixuan Chen | yic275@pitt.edu | Analyzed environmental quality / green space using the City of Pittsburgh Trees dataset. Notebook: `YixuanChen_environment.ipynb`|
 
 > *Note: The final combined analysis and conclusion can be found in `final_report.ipynb`.*
 
@@ -25,6 +25,7 @@ We used the following datasets from the Western Pennsylvania Regional Data Cente
    * **Description:** [写一句简单的英文描述该数据集的内容]
    * **Link:** [粘贴 WPRDC 网址链接]
 
-3. **[数据集3的名称，比如：Port Authority Transit Stops]**
-   * **Description:** [写一句简单的英文描述该数据集的内容]
-   * **Link:** [粘贴 WPRDC 网址链接]
+3. City of Pittsburgh Trees
+
+Description: This dataset contains trees maintained by the City of Pittsburgh and includes neighborhood information and estimated environmental benefits such as stormwater, air quality, and carbon-related benefits.
+Link: https://data.wprdc.org/dataset/city-trees
